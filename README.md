@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/doug_luce" target="blank"><img src="https://img.shields.io/twitter/follow/doug_luce?logo=twitter&style=for-the-badge" alt="doug_luce" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [Dougluce.com](https://dougluce.com)
-
 - 💬 Ask me about **React, JavaScript, TypeScript, Accessibility**
 
 - 📫 How to reach me **luce.douglas@gmail.com**
