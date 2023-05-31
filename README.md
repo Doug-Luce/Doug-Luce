@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Doug Luce</h1>
-<h3 align="center">A seasoned Frontend Engineer, passionate and motivated about software.</h3>
+<h3 align="center">A seasoned Software Engineer, passionate and motivated about software.</h3>
 
 <p align="left"> <a href="https://twitter.com/doug_luce" target="blank"><img src="https://img.shields.io/twitter/follow/doug_luce?logo=twitter&style=for-the-badge" alt="doug_luce" /></a> </p>
 
-- 💬 Ask me about **React, JavaScript, TypeScript, Accessibility**
-
 - 📫 How to reach me **luce.douglas@gmail.com**
-
-- 📄 Know about my experiences [Dougluce.com/resume](https://dougluce.com/resume.pdf)
 
 - ⚡ Fun fact **I enjoy baking and designing cakes**
 
